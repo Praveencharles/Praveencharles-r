@@ -16,5 +16,5 @@ Engineering student @Jeppiaar engineering college
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 
 
-![Praveencharles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveencharles-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Praveen charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveencharles&show_icons=true&theme=transparent)
 
